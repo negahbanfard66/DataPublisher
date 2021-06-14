@@ -1,0 +1,17 @@
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\DataPublisher-Project.exe
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\DataPublisher-Project.deps.json
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\DataPublisher-Project.runtimeconfig.json
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\DataPublisher-Project.runtimeconfig.dev.json
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\DataPublisher-Project.dll
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\DataPublisher-Project.pdb
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.csproj.AssemblyReference.cache
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.AssemblyInfoInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.AssemblyInfo.cs
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.csproj.CoreCompileInputs.cache
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.csproj.CopyComplete
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.dll
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.pdb
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\obj\Debug\netcoreapp3.1\DataPublisher-Project.genruntimeconfig.cache
+C:\Users\Hannan-PC\Source\Repos\DataPublisher-Project\DataPublisher-Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
